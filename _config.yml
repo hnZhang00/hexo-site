@@ -8,7 +8,7 @@ subtitle:
 description:
 keywords:
 author: John Doe
-language:
+language: en
 timezone:
 
 # URL
@@ -79,5 +79,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/hnZhang00/hnzhang00.github.io.git
+  repo: git@github.com:hnZhang00/hnZhang00.github.io.git
   branch: master
